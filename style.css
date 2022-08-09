@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-color: lavender;
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-image:url(hOye.gif);
+   border-style: ridge;
+   border-color: aqua;
+}
+
